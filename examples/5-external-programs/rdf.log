@@ -1,0 +1,7 @@
+[2023-09-02T13:25:51Z DEBUG rdf] Raw command: idf
+[2023-09-02T13:25:51Z DEBUG rdf] Raw command split: ["idf"]
+[2023-09-02T13:25:51Z DEBUG rdf] Skipping header line: Filesystem     1K-blocks     Used Available Use% Mounted on
+[2023-09-02T13:26:58Z DEBUG rdf] Debug mode enabled
+[2023-09-02T13:26:58Z DEBUG rdf] Raw command: idf
+[2023-09-02T13:26:58Z DEBUG rdf] Raw command split: ["idf"]
+[2023-09-02T13:26:58Z DEBUG rdf] Skipping header line: Filesystem     1K-blocks     Used Available Use% Mounted on
