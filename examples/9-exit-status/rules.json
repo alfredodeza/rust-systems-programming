@@ -1,0 +1,27 @@
+[
+    {
+      "path_regex": "/etc/*",
+      "file_permissions": 420, 
+      "required_files": ["passwd", "group"]
+    },
+    {  
+      "path_regex": "/var/log/",
+      "file_permissions": 640,
+      "required_files": ["syslog"]
+    },
+    {
+      "path_regex": "/home/.*", 
+      "file_permissions": 700,
+      "required_files": []
+    },
+    {
+      "path_regex": "/opt/program/bin/",
+      "file_permissions": 755, 
+      "required_files": ["program"]
+    },
+    {
+      "path_regex": "/opt/program/lib/", 
+      "file_permissions": 644,
+      "required_files": []
+    }
+  ]
