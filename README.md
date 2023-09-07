@@ -9,9 +9,9 @@ This week, you will learn how to .
 This is week 3 of the Rust For DevOps course. There are 4 weeks in total:
 
 - [week 1](https://github.com/alfredodeza/rust-setup) 
-- [week 2](https://github.com/alfredodeza/rust-fundamentals) 
+- [week 2](https://github.com/alfredodeza/rust-monitoring-logging)
 - [week 3](https://github.com/alfredodeza/rust-systems-programming/) 👈 You are here!
-- [week 4](https://github.com/alfredodeza/applied-rust)
+- [week 4](https://github.com/alfredodeza/advanced-ci-cd-concepts)
 
 💡 Are you just looking for a 👉 [Rust template](https://github.com/alfredodeza/rust-template) to get started easily with a project? The [template](https://github.com/alfredodeza/rust-template) has everything you need!
 
