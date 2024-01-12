@@ -1,12 +1,13 @@
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/alfredodeza/rust-systems-programming)
+# [![Coursera Course](./assets/banner.svg)](https://insight.paiml.com/prr?utm_source=GitHub "Coursera Course")
+
 
 # Rust Systems Programming
 
 _Rust for DevOps week 3: Automating System Management_
 
-This week, you will learn how to .
+This week, you will explore introductory System Automation with Rust, a fundamental exploration of DevOps practices and automation techniques. This course is structured into three lessons, providing a comprehensive introduction to system automation using Rust. In Lesson 1, "Crawling and Parsing," you'll delve into the fundamentals of navigating the filesystem, parsing various file formats, and extracting insights from log files. Lesson 2, "Running External Programs and Working with JSON," focuses on executing external programs and mastering JSON data manipulation—essential skills for any DevOps practitioner. The final lesson, "Building System Utilities," guides you in creating practical utilities, addressing permissions, compliance, and effective exit status management. Elevate your DevOps skills and streamline workflows with Rust's powerful capabilities in this comprehensive system automation course!
 
-This is week 3 of the Rust For DevOps course. There are 4 weeks in total:
+This is week 3 of the [Rust For DevOps](https://insight.paiml.com/prr?utm_source=GitHub "Coursera Course") course. There are 4 weeks in total:
 
 - [week 1](https://github.com/alfredodeza/rust-setup) 
 - [week 2](https://github.com/alfredodeza/rust-monitoring-logging)
@@ -16,27 +17,28 @@ This is week 3 of the Rust For DevOps course. There are 4 weeks in total:
 💡 Are you just looking for a 👉 [Rust template](https://github.com/alfredodeza/rust-template) to get started easily with a project? The [template](https://github.com/alfredodeza/rust-template) has everything you need!
 
 
-🚀 **Watch the Video course**
-
-[![O'Reilly](https://learning.oreilly.com/covers/urn:orm:video:28080717VIDEOPAIML/400w/)](https://s.deza.pe/zjo "Rust Bootcamp")
-
 ## Contents
 This week has several examples located in the [./examples](./examples) directory. Make sure you have Rust installed and you are using [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic-0000-alfredodeza).
 
 This repository is *Codespaces ready*, and it is set as a template repository. You can create a new repository from this template and start working on your own with Codespaces. This means that Rust, Copilot, and all the extensions are already installed and configured for you.
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/alfredodeza/rust-systems-programming)
+
+
 ### Lesson 1: Introduction to System Automation
-- [](./examples/)
+- [Crawling the filesystem](./examples/1-crawl)
+- [Parsing files](./examples/2-parsing)
+- [Parsing logs](./examples/3-parsing-log-files)
 
 ### Lesson 2: Running external programs
-- [](./examples/)
+- [External programs](./examples/5-external-programs)
+- [Working with JSON](./examples/6-json)
 
 ### Lesson 3: Building System utilities
-- [](./examples/)
+- [Permissions and Compliance](./examples/7-compliance)
+- [Compliance logic](./examples/8-compliance-logic)
+- [Working with Exit Status](./examples/9-exit-status)
 
-
-### Lesson 4: Practice Lab
-Use the [included practice lab](./lab.md) to apply the content you've learned in this week. Follow the steps to create your own repository and apply the requirements to complete the lab.
 
 ## Resources
 
